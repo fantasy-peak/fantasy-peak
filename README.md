@@ -28,9 +28,11 @@
 ### ⚙️ 开源项目 | Open Source Project
 - [reactor based on c++17](https://github.com/fantasy-peak/reactor.git)
 - [redis proxy based on c++20](https://github.com/fantasy-peak/redis-proxy.git)
+- [cpp graphql server](https://github.com/fantasy-peak/cpp-graphql-server.git)
 - [aws lambda docker for run cpp in alpine linux](https://github.com/fantasy-peak/aws-lambda-docker-alpine-linux.git)
 - [an easy to use package for yaml to cpp struct](https://github.com/fantasy-peak/yaml_cpp_struct.git)
 - [some examples of open source libraries](https://github.com/fantasy-peak/example)
+
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
