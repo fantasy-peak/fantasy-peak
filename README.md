@@ -4,7 +4,7 @@
 ### I'm fantasy
 - Hi, I'm a C++ server application developer
 - 🌱 Currently working in DaLian, China.
-- 💬 Let's talk about c++, Email: [26372592@qq.com](mailto:26372592@qq.com)
+- 💬 Let's talk about c++, Email: [1356346239@qq.com](mailto:1356346239@qq.com)
 - 😍 I like challenges, learning, logical problems, helping, sharing and living !!!
 
 ### 🛠 技术栈 | Tech Stack
@@ -12,6 +12,7 @@
 ![vscode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=visualstudiocode#&logoColor=#007ACC)
 ![vim](https://img.shields.io/badge/-vim-333333?style=flat&logo=vim#&logoColor=#019733)
 - 🌐 &#160; ![cplusplus](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus&logoColor=007396)
+![golang](https://img.shields.io/badge/-golang-333333?style=flat&logo=go&logoColor=#4285F4)
 ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor=53776AB)
 ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell#&logoColor=#FFD500)
 ![csharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp#&logoColor=#239120)
