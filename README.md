@@ -30,6 +30,8 @@
 - [reactor based on c++17](https://github.com/fantasy-peak/reactor.git)
 - [redis proxy based on c++20](https://github.com/fantasy-peak/redis-proxy.git)
 - [an easy to use package for yaml to cpp struct](https://github.com/fantasy-peak/yaml_cpp_struct.git)
+- [forward TCP requests to another group of servers](https://github.com:fantasy-peak/bridge.git)
+- [forward the data to the server through websocket](https://github.com:fantasy-peak/wormhole.git)
 - [a simple http proxy base on c++20 coroutines](https://github.com/fantasy-peak/http-proxy.git)
 - [cpp graphql server example](https://github.com/fantasy-peak/cpp-graphql-server.git)
 - [aws lambda docker for run cpp in alpine linux](https://github.com/fantasy-peak/aws-lambda-docker-alpine-linux.git)
