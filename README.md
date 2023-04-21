@@ -14,6 +14,7 @@
 - 🌐 &#160; ![cplusplus](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus&logoColor=007396)
 ![golang](https://img.shields.io/badge/-golang-333333?style=flat&logo=go&logoColor=#4285F4)
 ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor=53776AB)
+![rust](https://img.shields.io/badge/-rust-333333?style=flat&logo=rust&logoColor=#4285F4)
 ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell#&logoColor=#FFD500)
 ![csharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp#&logoColor=#239120)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -29,12 +30,12 @@
 ### ⚙️ 开源项目 | Open Source Project
 - [reactor based on c++17](https://github.com/fantasy-peak/reactor.git)
 - [an easy to use package for yaml to cpp struct](https://github.com/fantasy-peak/yaml_cpp_struct.git)
-- [forward TCP requests to another group of servers](https://github.com:fantasy-peak/bridge.git)
-- [forward the data to the server through websocket](https://github.com:fantasy-peak/wormhole.git)
+- [forward TCP requests to another group of servers base on c++20 coroutines](https://github.com:fantasy-peak/bridge.git)
+- [forward the data to the server through websocket base on c++20 coroutines](https://github.com:fantasy-peak/wormhole.git)
 - [a simple http proxy base on c++20 coroutines](https://github.com/fantasy-peak/http-proxy.git)
 - [cpp graphql server example](https://github.com/fantasy-peak/cpp-graphql-server.git)
 - [aws lambda docker for run cpp in alpine linux](https://github.com/fantasy-peak/aws-lambda-docker-alpine-linux.git)
-- [xmake grpc-stream-example](https://github.com/fantasy-peak/grpc-stream-example.git)
+- [grpc-stream-example](https://github.com/fantasy-peak/grpc-stream-example.git)
 - [some examples of open source libraries](https://github.com/fantasy-peak/example)
 
 
