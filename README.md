@@ -38,11 +38,9 @@
 ### ⚙️ 开源项目 | Open Source Project
 - [free chatgpt webui based on c++23](https://github.com/fantasy-peak/cpp-freegpt-webui.git)
 - [an easy to use package for yaml to cpp struct](https://github.com/fantasy-peak/yaml_cpp_struct.git)
+- [an rpc code generation framework for c++, It supports c++ 17/20/23](https://github.com/fantasy-peak/brpc.git)
+- [a grpc server auto generation tool](https://github.com/fantasy-peak/cpp-grpc-auto-gen.git)
 - [reactor based on c++17](https://github.com/fantasy-peak/reactor.git)
-- [forward TCP requests to another group of servers base on c++20 coroutines](https://github.com:fantasy-peak/bridge.git)
-- [forward the data to the server through websocket base on c++20 coroutines](https://github.com:fantasy-peak/wormhole.git)
-- [a simple http proxy base on c++20 coroutines](https://github.com/fantasy-peak/http-proxy.git)
-- [grpc-stream-example](https://github.com/fantasy-peak/grpc-stream-example.git)
 - [some examples of open source libraries](https://github.com/fantasy-peak/example)
 
 
