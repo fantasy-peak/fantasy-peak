@@ -4,7 +4,7 @@
 ### I'm fantasy
 - Hi, I'm a C++ server application developer
 - 🌱 Currently working in China.
-- 💬 Let's talk about c++, Email: [1356346239@qq.com](mailto:1356346239@qq.com)
+- 💬 Let's talk about c++
 - 😍 I like challenges, learning, logical problems, helping, sharing and living !!!
 
 ### 🛠 技术栈 | Tech Stack
@@ -38,10 +38,10 @@
 ### ⚙️ 开源项目 | Open Source Project
 - [free chatgpt webui based on c++23](https://github.com/fantasy-peak/cpp-freegpt-webui.git)
 - [an easy to use package for yaml to cpp struct](https://github.com/fantasy-peak/yaml_cpp_struct.git)
-- [an rpc code generation framework for c++, It supports c++ 17/20/23](https://github.com/fantasy-peak/brpc.git)
+- [C++ HTTP/2 and HTTP/1 server](https://github.com/fantasy-peak/simple_http.git)
+- [an rpc code generation framework for c++, It supports c++ 17/20/23](https://github.com/fantasy-peak/frpc.git)
 - [a grpc server auto generation tool](https://github.com/fantasy-peak/cpp-grpc-auto-gen.git)
-- [reactor based on c++17](https://github.com/fantasy-peak/reactor.git)
-- [some examples of open source libraries](https://github.com/fantasy-peak/example)
+- [a C++20 coroutine redis client](https://github.com/fantasy-peak/asio_async_redis.git)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
